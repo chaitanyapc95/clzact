@@ -16,11 +16,11 @@ public class order {
     String number;
     public void confirm()
     {
-        
+        System.out.println("confirm");
     }
     public void close()
     {
-        
+        System.out.println("close");
     }
     
 }
