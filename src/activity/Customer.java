@@ -15,10 +15,10 @@ public class Customer {
     String location;
     
     public void sendOrder(){
-        
+        System.out.println("Send order");      
     }
     public void receiveOrder(){
-        
+        System.out.println("receive order");      
     }
     
 }
