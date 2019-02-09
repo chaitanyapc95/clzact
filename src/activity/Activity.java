@@ -15,7 +15,8 @@ public class Activity {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Customer cust1=new Customer();
+        order ord1=new order();  
     }
     
 }
